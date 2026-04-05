@@ -1,0 +1,6 @@
+print(5-3)
+
+t1 = 5
+t2 = 3
+tfark = t1 - t2
+print(t1,"ile",t2,"nin farkı", tfark)
