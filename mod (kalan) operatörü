@@ -1,0 +1,6 @@
+sayi = 30
+
+if sayi % 5 == 0:
+    print("5'e tam bölünür")
+else:
+    print("5'e tam bölünmez")
