@@ -1,0 +1,6 @@
+try:
+    taban = float(input("Taban sayısını girin: "))
+    us = float(input("Üs (kuvvet) değerini girin: "))
+
+    sonuc = taban ** us
+    print(f"\nİşlem sonucu: {taban} üzeri {us} = {sonuc}")
