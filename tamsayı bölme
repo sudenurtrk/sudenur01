@@ -1,0 +1,4 @@
+int a = 10;
+int b = 3;
+int sonuc = a / b;
+System.out.println("Sonuç: " + sonuc);
