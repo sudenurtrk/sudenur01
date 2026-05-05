@@ -1,0 +1,21 @@
+int (Integer / Tam sayı)
+Ondalıklı kısmı olmayan sayıları tutar.
+sayi = 25
+print(type(sayi))  # <class 'int'>
+
+float (Ondalıklı sayı)
+Virgüllü (ondalıklı) sayıları tutar.
+pi = 3.14
+print(type(pi))  # <class 'float'>
+
+string (str) (Metin)
+Yazı ve karakterleri tutar. Tırnak içinde yazılır.
+isim = "Ahmet"
+print(type(isim))  # <class 'str'>
+
+bool (Boolean / Mantıksal)
+Sadece 2 değer alır:
+True (Doğru)
+False (Yanlış)
+aktif_mi = True
+print(type(aktif_mi))  # <class 'bool'>
