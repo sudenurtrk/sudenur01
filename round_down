@@ -1,0 +1,6 @@
+def round_down(sayi):
+    return round(sayi - 0.5)
+
+print(round_down(3.9))  # 3
+print(round_down(3.2))  # 3
+print(round_down(3.5))  # 3
